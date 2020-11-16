@@ -16,7 +16,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <xstream.version>1.4.10</xstream.version>
+        <xstream.version>1.4.13-java7</xstream.version>
         <dom4j.version>1.6.1</dom4j.version>
         <hutool.version>4.1.14</hutool.version>
     </properties>
